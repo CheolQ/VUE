@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../Vue_work"
+		},
+		{
+			"path": "../node_work"
+		},
+		{
+			"path": "../myproject"
+		},
+		{
+			"path": "../login"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "login"
+	}
+}

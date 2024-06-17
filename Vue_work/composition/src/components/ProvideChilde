@@ -1,0 +1,13 @@
+<template>
+    <div>child -child</div>
+    <Provide></Provide>
+</template>
+<script setup>
+    import {inject} from 'vue';
+    export default {
+        setup() {
+            const title = inject('title')
+            return {title};
+        }
+    }
+</script>

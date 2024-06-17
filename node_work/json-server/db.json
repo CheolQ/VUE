@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-sever"
+    },
+    {
+      "id": "3",
+      "title": "test3"
+    },
+    {
+      "id": "4",
+      "title": "test4"
+    },
+    {
+      "id": "2",
+      "title": "test2"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comments",
+      "postId": 1
+    },
+    {
+      "id": "2",
+      "body": "comments2",
+      "postId": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
